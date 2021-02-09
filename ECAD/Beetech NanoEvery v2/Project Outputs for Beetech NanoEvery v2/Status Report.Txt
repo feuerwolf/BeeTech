@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Beetech NanoEvery.PcbDoc]
+   Generated File[Beetech NanoEvery.TXT]
+   Generated File[Beetech NanoEvery.LDP]
+   Generated File[Beetech NanoEvery.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:44:05 On 09.02.2021
