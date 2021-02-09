@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CD SD Pin=X1-10
+Change Component Comment : Designator=R4 Old Comment=1k Ohm 0603 New Comment=10k Ohm 0603
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES 0603 FOOTPRINT"; UniqueID = "\RTTHYRKD" ("\RTTHYRKD")
+Change component parameters (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "603-AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component C1 100nF 0603_1
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component P2 3-Pin Right Angle Housing
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component P4 3-Pin Right Angle Housing
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component P5 4-Pin Right Angle Housing
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component P6 4-Pin Right Angle Housing
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R3 470 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R8 10k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R9 10k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component U1 TFT 2.2 SPI 240x320

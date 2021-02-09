@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Member From Class: ClassName=Bee Hive MasterBoard v2 Member=R7
+Removed Member From Class: ClassName=Bee Hive MasterBoard v2 Member=R10
+Change Component Comment : Designator=R1 Old Comment=330 Ohm 0603 New Comment=470 Ohm 0603
+Change Component Comment : Designator=U4 Old Comment=LED Diode SMD LOW CURRENT New Comment=neoPixel
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES 0603 FOOTPRINT"; UniqueID = "\ZEETDQPJ" ("\ZEETDQPJ")
+Change component parameters (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler2 Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HAendler Nr"; Value = "594-MCT06030C4700FP5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "0.15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "LED SMD 3529 - 3.5 X 2.8MM"; UniqueID = "\QWEYBPYI" ("\QWEYBPYI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "485-1655"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = "Adafruit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr"; Value = "1655"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "0.60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC 5V Pin=U4-3
+Added Pin To Net: NetName=NEO_PIX_DATA Pin=R1-1
+Added Pin To Net: NetName=NEO_PIX_DATA Pin=U1-12
+Added Net: Name=NEO_PIX_DATA
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U4-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=SCL Pin=U1-21
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U1-20
+Added Net: Name=SDA

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=VCC 3.3V Pin=U4-3
+Removed Member From Class: ClassName=Bee Hive MasterBoard Member=R7
+Change Component Footprint: Designator=U4 Old Footprint=neoPixel 5050 adafruit 1655 New Footprint=LED SMD 3529 - 3.5 X 2.8MM
+Change Component Comment : Designator=U4 Old Comment=neoPixel New Comment=LED Diode SMD LOW CURRENT
+Change component parameters: Designator = "U4" ("U4"); Footprint = "neoPixel 5050 adafruit 1655"; UniqueID = "\SVYQPKYL" ("\SVYQPKYL")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "RGB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.8V,2.6V,2.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "604-AAAF3529LSEEZGKQ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = "Knightbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr"; Value = "AAAF3529LSEEZGKQBKS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "If"; Value = "2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.mouser.ch/ProductDetail/Kingbright/AAAF3529LSEEZGKQBKS/?qs=sGAEpiMZZMuCm2JlHBGefuS2vX%252blrKJR%252bqWFjFLEvKH8cDHFfJ9xOQ%3d%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "1.31"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "603-RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "603-RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "2059597"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "71-CRCW0603750RFKEAH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.0123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "750"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=LED_B Pin=R?-2
+Added Pin To Net: NetName=LED_B Pin=U1-21
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_G Pin=R?-2
+Added Pin To Net: NetName=LED_G Pin=U1-20
+Added Net: Name=LED_G
+Added Pin To Net: NetName=LED_R Pin=R?-2
+Added Pin To Net: NetName=LED_R Pin=U1-12
+Added Net: Name=LED_R
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U4-4
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R? 330 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R? 330 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R? 750 Ohm 0603

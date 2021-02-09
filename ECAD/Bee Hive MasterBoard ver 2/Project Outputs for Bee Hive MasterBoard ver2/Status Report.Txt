@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Bee Hive MasterBoard PCB_v2.PcbDoc]
+   Generated File[Bee Hive MasterBoard PCB_v2.TXT]
+   Generated File[Bee Hive MasterBoard PCB_v2.LDP]
+   Generated File[Bee Hive MasterBoard PCB_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:17:48 On 29.01.2021

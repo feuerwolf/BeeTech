@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC 5V Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-3
+Added Component: Designator=C7(CAP 0805)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "C SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "2496946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.0126"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC 3.3V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=P3-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=SOUND_DATA Pin=C7-1
+Added Pin To Net: NetName=SOUND_DATA Pin=U2-4
+Added Net: Name=SOUND_DATA
+Change Class Name : Old Net Name=Bee Hive MainBoard New Net Name=Bee Hive MainBoard V3
+Added Member To Class: ClassName=Bee Hive MainBoard V3 Member=Component C7 100nF 0805

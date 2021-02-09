@@ -1,0 +1,202 @@
+*************************************************************
+FileName = Bee Hive Scale Board 3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : Bee Hive Scale Board 3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Bee Hive Scale Board 3.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Bee Hive Scale Board 3.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Bee Hive Scale Board 3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Bee Hive Scale Board 3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Bee Hive Scale Board 3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Bee Hive Scale Board 3.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Bee Hive Scale Board 3.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Bee Hive Scale Board 3.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Bee Hive Scale Board 3.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Bee Hive Scale Board 3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Bee Hive Scale Board 3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Bee Hive Scale Board 3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+

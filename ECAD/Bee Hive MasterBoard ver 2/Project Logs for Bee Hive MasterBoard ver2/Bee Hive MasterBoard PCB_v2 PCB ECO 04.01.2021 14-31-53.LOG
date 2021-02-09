@@ -1,0 +1,44 @@
+Change Component Footprint: Designator=U1 Old Footprint=ARDUINO GSM MKR 1400 V2 New Footprint=Arduino GSM MKR 1400 v1
+Added Component: Designator=P7(4PIN - RND 205-EK254-2.54-04P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "301-27-920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "RND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "RND 205-EK254-2.54-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.60"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HAendler Nr"; Value = "594-MCT06030C4700FP5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=U4(neoPixel 5050 adafruit 1655)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "485-1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC 3.3V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=SCL Pin=P7-3
+Added Pin To Net: NetName=SDA Pin=P7-4
+Added Pin To Net: NetName=NEO_PIX_DATA Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=NetR1_2 Pin=U4-2
+Added Pin To Net: NetName=VCC 5V Pin=U4-3
+Added Member To Class: ClassName=Bee Hive MasterBoard v2 Member=Component P7 4-Pin Right Angle Housing
+Added Member To Class: ClassName=Bee Hive MasterBoard v2 Member=Component R1 470 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard v2 Member=Component U4 neoPixel

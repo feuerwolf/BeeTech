@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCC 5V Pin=D1-1
+Removed Pin From Net: NetName=V IN Pin=D1-2
+Removed Pin From Net: NetName=V IN uC Pin=R11-1
+Removed Pin From Net: NetName=V IN Pin=R11-2
+Removed Pin From Net: NetName=VCC 5V Pin=U1-28
+Removed Member From Class: ClassName=Bee Hive MasterBoard v2 Member=D1
+Removed Member From Class: ClassName=Bee Hive MasterBoard v2 Member=R11
+Added Component: Designator=R7(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "667-ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U6(MPM3610 Buck Converter)
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "485-4739"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Typ"; Value = "4739"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.adafruit.com/product/4739"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "5.95"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V IN uC Pin=R7-1
+Added Pin To Net: NetName=VCC 5V Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VCC 5V Pin=U6-2
+Added Pin To Net: NetName=V IN Pin=U6-3
+Added Pin To Net: NetName=V IN Pin=U6-4
+Added Member To Class: ClassName=Bee Hive MasterBoard v2 Member=Component R7 0 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard v2 Member=Component U6 MPM3610 5V

@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=CS SD CARD Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=CS SD CARD Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-10
+Removed Pin From Net: NetName=VCC 3.3V Pin=U1-2
+Removed Pin From Net: NetName=SOUND_DATA Pin=U1-4
+Removed Pin From Net: NetName=TFT LED ENABLE Pin=U1-5
+Removed Pin From Net: NetName=DT_HX711 Pin=U1-6
+Removed Pin From Net: NetName=SCK_HX711 Pin=U1-7
+Removed Pin From Net: NetName=BUTTON_1 Pin=U1-8
+Removed Pin From Net: NetName=BUTTON_2 Pin=U1-9
+Removed Pin From Net: NetName=SWITCH Pin=U1-10
+Removed Pin From Net: NetName=NEO_PIX_DATA Pin=U1-11
+Removed Pin From Net: NetName=VCC 5V Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=V IN Pin=U1-15
+Removed Pin From Net: NetName=TX 1 Pin=U1-16
+Removed Pin From Net: NetName=TX 1 Pin=U1-16
+Removed Pin From Net: NetName=RX 1 Pin=U1-17
+Removed Pin From Net: NetName=GND Pin=U1-19
+Removed Pin From Net: NetName=DATA_TEMP_2 Pin=U1-24
+Removed Pin From Net: NetName=DATA_TEMP_1 Pin=U1-25
+Removed Pin From Net: NetName=MISO Pin=U1-30
+Removed Pin From Net: NetName=CS TFT Pin=U2-3
+Removed Pin From Net: NetName=CS TFT Pin=U3-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=U3-2
+Removed Pin From Net: NetName=RST TFT Pin=U3-3
+Removed Pin From Net: NetName=DC TFT Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=MISO Pin=U3-10
+Removed Pin From Net: NetName=VCC 5V Pin=U3-15
+Removed Member From Class: ClassName=Bee Hive MainBoard Member=R13
+Removed Member From Class: ClassName=Bee Hive MainBoard Member=R15
+Removed Member From Class: ClassName=Bee Hive MainBoard Member=S1
+Change Component Footprint: Designator=P4 Old Footprint=4PIN - RND 205-EK254-2.54-04P New Footprint=2PIN - RND 205-EK254-2.54-02P
+Change Component Footprint: Designator=U1 Old Footprint=Arduino Nano Every New Footprint=Arduino GSM MKR 1400 v1
+Change Component Footprint: Designator=U3 Old Footprint=TSSOP-16L New Footprint=SO 8Pin
+Change Component Comment : Designator=P4 Old Comment=4-Pin Right Angle Housing New Comment=2-Pin Right Angle Housing
+Change Component Comment : Designator=U1 Old Comment=Arduino Nano Every New Comment=Arduino MKR GSM 1400
+Change Component Comment : Designator=U3 Old Comment=TXB0106 New Comment=FRAM MB85RS256BPNF-G-JNERE1
+Change component parameters: Designator = "P4" ("P4"); Footprint = "4PIN - RND 205-EK254-2.54-04P"; UniqueID = "\ZDLUOOLY" ("\ZDLUOOLY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "301-27-918"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "0.60"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "Arduino Nano Every"; UniqueID = "\QVUSDAWM" ("\QVUSDAWM")
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://ch.farnell.com/stmicroelectronics/stm32l496vgt6/mcu-arm-cortex-m4-80mhz-lqfp-100/dp/2725139?st=STM32L496VGT6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://store.arduino.cc/arduino-mkr-gsm-1400-1415"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "TSSOP-16L"; UniqueID = "\KWDIFJVF" ("\KWDIFJVF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product search"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?t=774&v=865&pv149=380462&pv961=349252&pv570=349254&pv142=158003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "865-1251-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = "FUJITSU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr."; Value = "MB85RS256BPNF-G-JNERE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "3.9"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SOUND_DATA Pin=U1-2
+Added Pin To Net: NetName=CS SD CARD Pin=U1-3
+Added Pin To Net: NetName=TFT LED ENABLE Pin=U1-4
+Added Pin To Net: NetName=RST TFT Pin=U1-5
+Added Pin To Net: NetName=DC TFT Pin=U1-6
+Added Pin To Net: NetName=BUTTON_1 Pin=U1-7
+Added Pin To Net: NetName=BUTTON_2 Pin=U1-8
+Added Pin To Net: NetName=SWITCH Pin=U1-9
+Added Pin To Net: NetName=DT_HX711 Pin=U1-10
+Added Pin To Net: NetName=SCK_HX711 Pin=U1-11
+Added Pin To Net: NetName=NEO_PIX_DATA Pin=U1-12
+Added Pin To Net: NetName=DATA_TEMP_1 Pin=U1-13
+Added Pin To Net: NetName=DATA_TEMP_2 Pin=U1-14
+Added Pin To Net: NetName=CS SD CARD Pin=U1-15
+Added Pin To Net: NetName=CS TFT Pin=U1-16
+Added Pin To Net: NetName=CS TFT Pin=U1-16
+Added Pin To Net: NetName=MOSI 3.3V Pin=U1-17
+Added Pin To Net: NetName=SCK 3.3V Pin=U1-18
+Added Pin To Net: NetName=MISO Pin=U1-19
+Added Pin To Net: NetName=RX 1 Pin=U1-22
+Added Pin To Net: NetName=TX 1 Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=VCC 3.3V Pin=U1-26
+Added Pin To Net: NetName=V IN Pin=U1-27
+Added Pin To Net: NetName=MISO Pin=U3-2
+Added Pin To Net: NetName=VCC 3.3V Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=VCC 3.3V Pin=U3-7
+Added Pin To Net: NetName=MISO Pin=X1-7
+Change Net Name : Old Net Name=MOSI 3.3V New Net Name=MOSI
+Change Net Name : Old Net Name=SCK 3.3V New Net Name=SCK
+Added Pin To Net: NetName=CD SD Pin=R8-1
+Added Pin To Net: NetName=CD SD Pin=U1-1
+Added Pin To Net: NetName=CD SD Pin=X1-10
+Added Net: Name=CD SD
+Added Pin To Net: NetName=CS FRAM Pin=U1-20
+Added Pin To Net: NetName=CS FRAM Pin=U3-1
+Added Net: Name=CS FRAM
+Change Class Name : Old Net Name=Bee Hive MainBoard New Net Name=Bee Hive MasterBoard

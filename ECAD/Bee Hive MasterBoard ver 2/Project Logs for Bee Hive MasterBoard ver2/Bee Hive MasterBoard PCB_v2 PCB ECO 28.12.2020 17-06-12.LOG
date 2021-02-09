@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CS FRAM Pin=U1-7
+Removed Pin From Net: NetName=TFT LED ENABLE Pin=U1-8
+Added Pin To Net: NetName=TFT LED ENABLE Pin=U1-7
+Added Pin To Net: NetName=CS FRAM Pin=U1-8

@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=VCC 3.3V Pin=P1-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=DT_HX711 Pin=P5-2
+Removed Pin From Net: NetName=SCK_HX711 Pin=P5-3
+Removed Pin From Net: NetName=VCC 5V Pin=P5-4
+Removed Pin From Net: NetName=VCC 3.3V Pin=P6-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=R2-1
+Removed Pin From Net: NetName=VCC 3.3V Pin=R3-1
+Removed Pin From Net: NetName=VCC 5V Pin=R8-2
+Removed Pin From Net: NetName=TFT LED ENABLE Pin=R9-2
+Removed Pin From Net: NetName=CS SD 5V Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=BUTTON_1 Pin=U1-8
+Removed Pin From Net: NetName=BUTTON_2 Pin=U1-9
+Removed Pin From Net: NetName=TFT LED ENABLE Pin=U5-3
+Removed Member From Class: ClassName=Bee Hive MainBoard Member=R9
+Removed Member From Class: ClassName=Bee Hive MainBoard Member=R13
+Removed Member From Class: ClassName=Bee Hive MainBoard Member=R15
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P7
+Change Component Designator: OldDesignator=P6 NewDesignator=P3
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=P6(4PIN - RND 205-EK254-2.54-04P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "301-27-920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "RND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "RND 205-EK254-2.54-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.60"; VariantName = "[No Variations]"
+Added Component: Designator=P?(4PIN - RND 205-EK254-2.54-04P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "301-27-920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "RND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "RND 205-EK254-2.54-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.60"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSSOP-16L)
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "1694679"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "595-TXB0106PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "TXB0106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "http://ch.farnell.com/texas-instruments/txb0106pwr/txb-transceiver-tssop16/dp/1694679?ost=1694679&searchView=table&iscrfnonsku=false&ddkey=http%3Ade-CH%2FElement14_Switzerland%2Fsearch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "1.45"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC 5V Pin=P2-1
+Added Pin To Net: NetName=VCC 5V Pin=P3-1
+Added Pin To Net: NetName=VCC 5V Pin=P4-1
+Added Pin To Net: NetName=VCC 3.3V Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=DT_HX711 Pin=P?-2
+Added Pin To Net: NetName=SCK_HX711 Pin=P?-3
+Added Pin To Net: NetName=VCC 5V Pin=P?-4
+Added Pin To Net: NetName=VCC 5V Pin=R1-1
+Added Pin To Net: NetName=VCC 5V Pin=R2-1
+Added Pin To Net: NetName=BUTTON_1 Pin=U2-3
+Added Pin To Net: NetName=BUTTON_2 Pin=U2-20
+Added Pin To Net: NetName=VCC 3.3V Pin=U?-2
+Added Pin To Net: NetName=VCC 3.3V Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=CS SD 5V Pin=U?-14
+Added Pin To Net: NetName=VCC 5V Pin=U?-15
+Added Pin To Net: NetName=TFT LED ENABLE Pin=U?-16
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=SOUND_DATA New Net Name=SOUND_DATA 5V
+Added Pin To Net: NetName=CS SD CARD 3.3V Pin=U?-3
+Added Pin To Net: NetName=CS SD CARD 3.3V Pin=X1-2
+Added Net: Name=CS SD CARD 3.3V
+Added Pin To Net: NetName=SCL 3.3V Pin=P6-4
+Added Pin To Net: NetName=SCL 3.3V Pin=U?-7
+Added Net: Name=SCL 3.3V
+Added Pin To Net: NetName=SCL 5V Pin=U2-9
+Added Pin To Net: NetName=SCL 5V Pin=U?-10
+Added Net: Name=SCL 5V
+Added Pin To Net: NetName=SDA 3.3V Pin=P6-3
+Added Pin To Net: NetName=SDA 3.3V Pin=U?-6
+Added Net: Name=SDA 3.3V
+Added Pin To Net: NetName=SDA 5V Pin=U2-8
+Added Pin To Net: NetName=SDA 5V Pin=U?-11
+Added Net: Name=SDA 5V
+Added Pin To Net: NetName=TFT LED EN 3.3V Pin=R5-2
+Added Pin To Net: NetName=TFT LED EN 3.3V Pin=U5-3
+Added Pin To Net: NetName=TFT LED EN 3.3V Pin=U?-1
+Added Net: Name=TFT LED EN 3.3V
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component P? 4-Pin Right Angle Housing
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component U? TXB0106

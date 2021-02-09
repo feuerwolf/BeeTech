@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Bee Hive Scale Board.PcbDoc]
+   Generated File[Bee Hive Scale Board.TXT]
+   Generated File[Bee Hive Scale Board.LDP]
+   Generated File[Bee Hive Scale Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:26:21 On 16.06.2020

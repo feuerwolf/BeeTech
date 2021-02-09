@@ -1,0 +1,7 @@
+station_number=2;		// number
+station_name=Lab_Beehive2;	// name
+station_mode=0;			// mode can be " 0 = slave" or "1 = master"
+sdcard_logging=1;		// Logging data to SD Card
+sdcard_log_intervall=60;	// logging intervall in seconds
+calibration_factor=-24200;	// scale correction value
+scale_offset=-14.4;		// scale offset

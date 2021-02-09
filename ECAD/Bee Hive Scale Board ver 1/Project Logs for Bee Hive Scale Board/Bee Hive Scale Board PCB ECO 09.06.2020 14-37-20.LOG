@@ -1,0 +1,133 @@
+Added Component: Designator=C1(CAP 0603)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "C SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "603-CC0603JPX79BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "CC0603JPX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Umax"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED SMD 0603 FOOTPRINT)
+Add component (AddParameter): Name = "COLOR"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "604-APT1608LZGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Knightbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller NR"; Value = "APT1608LZGCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "http://ch.farnell.com/kingbright/kpt-1608lvzgck/led-gr-n-50mcd-525nm-smd/dp/2610409"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.321"; VariantName = "[No Variations]"
+Added Component: Designator=P1(3PIN - Connector right angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "538-22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Component: Designator=P2(3PIN - Connector right angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "538-22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Component: Designator=P3(3PIN - Connector right angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "538-22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Component: Designator=P4(3PIN - Connector right angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/ProductDetail/TE-Connectivity/640453-2?qs=sGAEpiMZZMs%252bGHln7q6pm5E1Eb6qwPl2KIU5TYv3tVY%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "538-22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "22-28-8034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.32"; VariantName = "[No Variations]"
+Added Component: Designator=P5(5PIN)
+Add component (AddParameter): Name = "Haendler"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "855-M20-9990546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "HARWIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "M20-9990546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.14"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "71-RCS06031K20FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "RCS06031K20FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.2k"; VariantName = "[No Variations]"
+Added Component: Designator=U1(HX711 SCALE)
+Add component (AddParameter): Name = "Haendler"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "HX711 XFW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DS1820 Footprint)
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2"; Value = "Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler 2 Nr"; Value = "173-77-559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "700-DS18B20+"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC 5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VCC 5V Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=VCC 5V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=VCC 5V Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VCC 5V Pin=U2-3
+Added Pin To Net: NetName=DATA_LL Pin=P3-3
+Added Pin To Net: NetName=DATA_LL Pin=U1-4
+Added Net: Name=DATA_LL
+Added Pin To Net: NetName=DATA_LR Pin=P4-3
+Added Pin To Net: NetName=DATA_LR Pin=U1-1
+Added Net: Name=DATA_LR
+Added Pin To Net: NetName=DATA_SCALE Pin=P5-3
+Added Pin To Net: NetName=DATA_SCALE Pin=U1-8
+Added Net: Name=DATA_SCALE
+Added Pin To Net: NetName=DATA_TEMP Pin=P5-4
+Added Pin To Net: NetName=DATA_TEMP Pin=U2-2
+Added Net: Name=DATA_TEMP
+Added Pin To Net: NetName=DATA_UL Pin=P1-3
+Added Pin To Net: NetName=DATA_UL Pin=U1-2
+Added Net: Name=DATA_UL
+Added Pin To Net: NetName=DATA_UR Pin=P2-3
+Added Pin To Net: NetName=DATA_UR Pin=U1-3
+Added Net: Name=DATA_UR
+Added Pin To Net: NetName=MINUS_LL Pin=P1-2
+Added Pin To Net: NetName=MINUS_LL Pin=P3-2
+Added Net: Name=MINUS_LL
+Added Pin To Net: NetName=MINUS_LR Pin=P2-2
+Added Pin To Net: NetName=MINUS_LR Pin=P4-2
+Added Net: Name=MINUS_LR
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=PLUS_LL Pin=P3-1
+Added Pin To Net: NetName=PLUS_LL Pin=P4-1
+Added Net: Name=PLUS_LL
+Added Pin To Net: NetName=PLUS_UL Pin=P1-1
+Added Pin To Net: NetName=PLUS_UL Pin=P2-1
+Added Net: Name=PLUS_UL
+Added Pin To Net: NetName=SCK_SCALE Pin=P5-2
+Added Pin To Net: NetName=SCK_SCALE Pin=U1-9
+Added Net: Name=SCK_SCALE
+Added Class: Name=Bee Hive Scale Board

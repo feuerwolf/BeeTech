@@ -1,0 +1,28 @@
+Change Component Comment : Designator=U3 Old Comment=FRAM MB85RS256BPNF-G-JNERE1 New Comment=FRAM MB85RS64VPNF-G-JNERE1
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SO 8Pin"; UniqueID = "\JLTDEKHH" ("\JLTDEKHH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product search"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?t=774&v=865&pv149=380462&pv961=349252&pv570=349254&pv142=158003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "865-1260-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = "FUJITSU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr."; Value = "MB85RS64VPNF-G-JNERE1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Component: Designator=D?(Diode Schottky STPS1L30)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "Schottkydiode 1 A 30 V SMA, STPS1L30A, ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "9907491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler3"; Value = "Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler3 Nr"; Value = "300-18-841"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "511-STPS1L30A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "If"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.distrelec.ch/de/schottkydiode-30-sma-st-stps1l30a/p/30018841?queryFromSuggest=true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "2.44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Uv"; Value = "300mV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC 5V Pin=D?-1
+Added Pin To Net: NetName=V IN Pin=D?-2
+Added Pin To Net: NetName=VCC 5V Pin=U1-28
+Change Class Name : Old Net Name=Bee Hive MasterBoard New Net Name=Bee Hive MasterBoard v2
+Added Member To Class: ClassName=Bee Hive MasterBoard v2 Member=Component D? STPS1L30

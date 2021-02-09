@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=R9 Old DesignItemId=47k Ohm 0402 New DesignItemId=47k Ohm 0603
+Change Component Footprint: Designator=R9 Old Footprint=RES 0402 FOOTPRINT New Footprint=RES 0603 FOOTPRINT
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES 0402 FOOTPRINT"; UniqueID = "\CPHLUALD" ("\CPHLUALD")
+Change component parameters (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Haendler Nr"; Value = "603-AC0603FR-0747KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Hersteller Nr"; Value = "AC0603FR-0747KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"

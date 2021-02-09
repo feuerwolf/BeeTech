@@ -1,0 +1,155 @@
+Added Component: Designator=C6(CAP 0603)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "C SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielektrikum"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "810-C1608X5R1A106K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "C1608X5R1A106K080AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Umax"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "603-AC0603FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "AC0603FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "2447301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HAendler Nr"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "2447301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HAendler Nr"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "2447301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HAendler Nr"; Value = "603-RC0603FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "2447319"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "2447319"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "2447319"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "2447319"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=X1(SD Card Holder - micro - 2 - sd Card inserted)
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler2 Nr"; Value = "2064063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "538-502774-0891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "502774-0891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "3.15"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC 3.3V Pin=C6-2
+Added Pin To Net: NetName=VCC 3.3V Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=VCC 3.3V Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X1-20
+Added Pin To Net: NetName=GND Pin=X1-20
+Added Pin To Net: NetName=GND Pin=X1-20
+Added Pin To Net: NetName=GND Pin=X1-20
+Added Pin To Net: NetName=GND Pin=X1-20
+Added Pin To Net: NetName=CD SD 5V Pin=R12-2
+Added Net: Name=CD SD 5V
+Added Pin To Net: NetName=CD SD CARD Pin=R8-1
+Added Pin To Net: NetName=CD SD CARD Pin=R12-1
+Added Pin To Net: NetName=CD SD CARD Pin=R14-2
+Added Pin To Net: NetName=CD SD CARD Pin=X1-10
+Added Net: Name=CD SD CARD
+Added Pin To Net: NetName=CS SD 5V Pin=R13-2
+Added Net: Name=CS SD 5V
+Added Pin To Net: NetName=CS SD CARD Pin=R13-1
+Added Pin To Net: NetName=CS SD CARD Pin=R15-2
+Added Pin To Net: NetName=CS SD CARD Pin=X1-2
+Added Net: Name=CS SD CARD
+Added Pin To Net: NetName=MISO 3.3V Pin=R9-2
+Added Pin To Net: NetName=MISO 3.3V Pin=U3-7
+Added Net: Name=MISO 3.3V
+Added Pin To Net: NetName=MISO SD CARD Pin=R9-1
+Added Pin To Net: NetName=MISO SD CARD Pin=X1-7
+Added Net: Name=MISO SD CARD
+Added Pin To Net: NetName=MISO Pin=U1-30
+Added Pin To Net: NetName=MISO Pin=U3-10
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI 3.3V Pin=R10-2
+Added Pin To Net: NetName=MOSI 3.3V Pin=U2-6
+Added Pin To Net: NetName=MOSI 3.3V Pin=U3-5
+Added Net: Name=MOSI 3.3V
+Added Pin To Net: NetName=MOSI SD CARD Pin=R10-1
+Added Pin To Net: NetName=MOSI SD CARD Pin=X1-3
+Added Net: Name=MOSI SD CARD
+Added Pin To Net: NetName=SCK 3.3V Pin=R11-2
+Added Pin To Net: NetName=SCK 3.3V Pin=U2-7
+Added Pin To Net: NetName=SCK 3.3V Pin=U3-6
+Added Net: Name=SCK 3.3V
+Added Pin To Net: NetName=SCK SD CARD Pin=R11-1
+Added Pin To Net: NetName=SCK SD CARD Pin=X1-5
+Added Net: Name=SCK SD CARD
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component C6 10uF 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R8 47k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R9 22 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R10 22 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R11 22 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R12 2k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R13 2k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R14 2k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component R15 2k Ohm 0603
+Added Member To Class: ClassName=Bee Hive MainBoard Member=Component X1 SD micro Card Holder_2

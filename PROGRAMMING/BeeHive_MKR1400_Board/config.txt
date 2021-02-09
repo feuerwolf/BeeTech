@@ -1,0 +1,29 @@
+# Beehive settings
+station_number=0;		// number
+station_name=Lab_Beehive0;	// name
+station_mode=1;			// mode can be "0 = log_alone" or "1 = master_network"
+sdcard_logging=1;		// Logging data to SD Card
+sdcard_log_intervall=60;	// logging intervall in seconds
+calibration_factor=-24200;	// scale correction value
+scale_offset=-14.39;		// scale offset
+
+# Network connection settings
+network_enabled=1;		// network data collection enabled = 1; diabled = 0;
+number_beehives=3;		// number of beehives connected in total
+
+# Modem settings
+GSM_APN = TM;    // Provider
+GSM_LOGIN = ;    // Provider
+GSM_PASSWORD = ; // Provider
+SIM_PIN = ;      // SIM_Card
+
+# Database settings
+databaseLog = 1;	// upload(GMS) enabled = 1; upload(GSM) disabled = 0;
+upload_timing = 12;	// 12 times 5sec == 60sec ; upload data every 60sec
+mac_addr = 0xDE,0xAD,0xBE,0xEF,0xFE,0xED;
+IPAddress server_addr = 91,204,46,146;    // IP of the MySQL *server* here
+database_user = k139859_n;                // MySQL user login username
+database_password = 22222;                // MySQL user login password
+
+#Database Sample query
+INSERT_SQL "INSERT INTO k139859_test_arduino.test_data (location,hive,temp1,temp2,weight,sound) VALUES ('Zuin',1,10.0,24.0,50.0,30.0)"

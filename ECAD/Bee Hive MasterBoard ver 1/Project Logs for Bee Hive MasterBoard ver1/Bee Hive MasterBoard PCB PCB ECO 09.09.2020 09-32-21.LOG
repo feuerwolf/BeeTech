@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VCC 3.3V Pin=U1-26
+Removed Pin From Net: NetName=V IN Pin=U1-27
+Added Component: Designator=R11(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "667-ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES 0603 FOOTPRINT)
+Add component (AddParameter): Name = "Bezeichnung"; Value = "R SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Haendler Nr"; Value = "667-ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hersteller Nr"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing/footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preis (CHF)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V IN Pin=R11-2
+Added Pin To Net: NetName=VCC 3.3V Pin=R12-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U1-26
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=V IN uC Pin=R11-1
+Added Pin To Net: NetName=V IN uC Pin=U1-27
+Added Net: Name=V IN uC
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R1 330 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R7 330 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R11 0 Ohm 0603
+Added Member To Class: ClassName=Bee Hive MasterBoard Member=Component R12 0 Ohm 0603
