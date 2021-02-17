@@ -4,7 +4,7 @@
  
  Still a lot documentation to do:
  - part list, where to buy
- - change altium files to Gerber Files
+ - change solid Works files to STEP, STL files
  - proper project description
  - proper manual
  - ...
