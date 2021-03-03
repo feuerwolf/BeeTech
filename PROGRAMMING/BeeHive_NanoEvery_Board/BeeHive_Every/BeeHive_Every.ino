@@ -478,7 +478,8 @@ void getSensorData(){
       /*
       if(BEEHIVE.weight_float < 0.0)
          BEEHIVE.weight_float = 0.0;        // in case correction factor from SD CArd is slightly different
-      }*/
+     */
+      }
   
   BEEHIVE.sound_int = getSound(analogSoundPin) ; // analogRead(analogSoundPin);      
   

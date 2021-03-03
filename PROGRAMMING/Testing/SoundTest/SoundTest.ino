@@ -65,7 +65,7 @@ void setup() {
 }
 
 void loop() {
-  /*
+  /**/
   // subtract the last reading:
   total = total - readings[readIndex];
   // read from the sensor:
@@ -86,5 +86,5 @@ void loop() {
   // send it to the computer as ASCII digits
   Serial.println(average);
   delay(1);        // delay in between reads for stability
-  */
+  
 }

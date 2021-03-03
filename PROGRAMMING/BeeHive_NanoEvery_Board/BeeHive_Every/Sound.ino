@@ -1,4 +1,4 @@
-const int numReadings = 40;
+const int numReadings = 20;
 
 
 int getSound(int inputPin){
@@ -13,7 +13,8 @@ int getSound(int inputPin){
   }
 
   average = total / numReadings;
-  
+
+  //Serial.print("Analog Sound: ");
   //Serial.println(average);
   return average;
 
